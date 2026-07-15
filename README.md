@@ -90,8 +90,6 @@ TKF-Restaurant-Payment-System
 
 This project was developed for academic purposes.
 
-# 🍽️ TKF Restaurant Payment System
-
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Platform](https://img.shields.io/badge/Platform-Console-success)
 ![Course](https://img.shields.io/badge/Course-Object--Oriented%20Software%20Development-orange)
