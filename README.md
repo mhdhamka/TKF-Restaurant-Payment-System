@@ -81,7 +81,7 @@ TKF-Restaurant-Payment-System
 
 | Name | Role | 
 |------|------|
-| **Mohammad Hamka Izzuddin Bin Mohamad Yahya** | **Team Leader & System Development** |
+| **Mohd Hamka** | **Team Leader & System Development** |
 | **Faizatul Fitri Bin Boestamam** | Documentation & System Development |
 | **Harith Zakwan** | Application Development Leader |
 | **Iman Tarmizi** | Videography & System Support |
