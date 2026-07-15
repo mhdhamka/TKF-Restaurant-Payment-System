@@ -1,7 +1,6 @@
 # 🍽️ TKF Restaurant Payment System
 
-A console-based restaurant payment system developed in **C++** to simulate the ordering and payment process of **The Korean Food (TKF) Restaurant**. This project was completed as part of the **Object-Oriented Software Development** course at **Universiti Malaysia Sarawak (UNIMAS)**.
-
+A console-based restaurant payment system developed in **C++** to simulate the ordering and payment process of **The Korean Food (TKF) Restaurant**. This project was completed as part of the academic purpose.
 ---
 
 ## 📖 Introduction
@@ -75,7 +74,7 @@ TKF-Restaurant-Payment-System
 
 ---
 
-## 👥 Project Team
+## 👥 Project Member
 
 | Name | Role | 
 |------|------|
