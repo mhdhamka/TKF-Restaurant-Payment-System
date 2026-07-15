@@ -16,7 +16,7 @@ The project was designed to strengthen our understanding of structured programmi
 
 - Simulate the payment process of a restaurant.
 - Provide a user-friendly console-based ordering system.
-- Apply fundamental C++ programming concepts in a real-world application.
+- Apply fundamental C programming concepts in a real-world application.
 - Develop problem-solving and teamwork skills through collaborative software development.
 
 ---
@@ -27,7 +27,7 @@ The project was designed to strengthen our understanding of structured programmi
 Functions are used to modularize the program into smaller, reusable components, making the code easier to understand, maintain, and debug.
 
 ### Arrays
-Arrays are used to store collections of related data such as menu items, prices, and customer selections.
+Arrays are used to store collections of related data, such as menu items, prices, and customer selections.
 
 ### Data Structures
 The project utilizes structures (`struct`) to organize multiple data types into meaningful records, such as customer information and order details.
@@ -51,9 +51,9 @@ File handling is implemented to create, read, update, and store transaction reco
 
 ## 💻 Technologies Used
 
-- C++
-- Object-Oriented Programming (OOP)
-- File Handling
+- C Programming Language
+- Structured Programming
+- File Processing
 - Console Application
 
 ---
@@ -64,12 +64,14 @@ File handling is implemented to create, read, update, and store transaction reco
 TKF-Restaurant-Payment-System
 │
 ├── src/
-├── include/
+│   └── main.c
+│
 ├── docs/
 │   ├── Flowchart.drawio
 │   ├── Pseudocode.docx
 │   └── Project Report.pdf
-├── data/
+│
+│
 └── README.md
 ```
 
