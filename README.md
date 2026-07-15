@@ -1,14 +1,14 @@
 # 🍽️ TKF Restaurant Payment System
 
-A console-based restaurant payment system developed in **C** to simulate the ordering and payment process of **The Korean Food (TKF) Restaurant**. This project was completed as part of the academic purpose.
+A console-based restaurant payment system developed in **C** to simulate the ordering and payment process of **The Korean Food (TKF) Restaurant**. This project was completed for an academic purpose.
 
 ---
 
 ## 📖 Introduction
 
-The **TKF Restaurant Payment System** is a console application that demonstrates the use of fundamental programming concepts through a real-world restaurant payment scenario. The system allows users to interact with a menu-driven interface, place food orders, calculate the total payment, and generate transaction records.
+The **TKF Restaurant Payment System** is a console application that demonstrates fundamental programming concepts through a real-world restaurant payment scenario. This project focuses on applying fundamental programming concepts such as functions, arrays, data structures, and file processing to develop a practical restaurant management solution.
 
-The project was designed to strengthen our understanding of structured programming and object-oriented development while applying programming techniques to solve practical business problems.
+This project demonstrates the application of **structured programming concepts in C** by solving a real-world problem through modular programming, data management, and file-handling techniques.
 
 ---
 
