@@ -57,42 +57,30 @@ File handling is implemented to create, read, update, and store transaction reco
 - Console Application
 
 ---
+## Development Enhancement
 
-## 📁 Project Structure
+This version was developed independently to improve the original TKF Restaurant Payment System by introducing:
 
-```
-TKF-Restaurant-Payment-System
-│
-├── src/
-│   └── main.c
-│
-├── docs/
-│   ├── Flowchart.drawio
-│   ├── Pseudocode.docx
-│   └── Project Report.pdf
-│
-│
-└── README.md
-```
+- Better source code organization
+- Modular architecture
+- Improved ordering workflow
+- Shopping cart implementation
+- Payment processing
+- Administrative functions
+- Persistent transaction records
 
----
-
-## 👥 Project Member
-
-| Name | Role | 
-|------|------|
-| **Mohd Hamka** | **Team Leader & System Development** |
-| **Faizatul Fitri Bin Boestamam** | Documentation & System Development |
-| **Harith Zakwan** | Application Development Leader |
-| **Iman Tarmizi** | Videography & System Support |
-
----
+The enhancement focuses on transforming a basic console application into a more structured and maintainable software system.
 
 ## 📄 License
 
-This project was developed for academic purposes.
+This project was developed for **educational and personal software development purposes**.
+
+The original version was created as part of an academic project, while this enhanced version was independently improved to practice modular programming, software design, and system development using C.
+
+---
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
 ![Platform](https://img.shields.io/badge/Platform-Console-success)
-![Course](https://img.shields.io/badge/Course-Object--Oriented%20Software%20Development-orange)
+![Project](https://img.shields.io/badge/Project-Personal%20Enhancement-purple)
+![Programming](https://img.shields.io/badge/Programming-Structured%20Programming-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
